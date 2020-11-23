@@ -270,3 +270,8 @@ h2 {
   font-size: 12px;
   text-decoration: none;
 }
+
+.warning {
+  background-color: red;
+  text-align: center;
+}
