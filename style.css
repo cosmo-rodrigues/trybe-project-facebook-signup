@@ -1,3 +1,7 @@
+* {
+  margin: 0;
+  padding: 0;
+}
 a {
   color: white;
   text-decoration: none;
@@ -272,6 +276,9 @@ h2 {
 }
 
 .warning {
+  align-items: center;
   background-color: red;
+  display: flex;
+  justify-content: center;
   text-align: center;
 }
